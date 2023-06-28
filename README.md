@@ -1,5 +1,3 @@
-<p><i>Hey 👋,I am <strong><a href="https://github.com/ks-keshava-rao/" target="_blank">K S Keshava Rao</a></strong>, Full stack developer:globe_with_meridians: developer! let's connect for innovative ideas !! 🎓. </i>
-</p>
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 </p>
@@ -8,6 +6,8 @@
   <img alt="GIF" src="https://media3.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif?cid=ecf05e47jj4bw0qm7a35f66e6kbhlsvhh0gb3oju8rsz2do3&ep=v1_gifs_search&rid=giphy.gif&ct=g&ct=g" width="300px" height="300px"/>
 </p>
 <br>
+<p align=center ><i>Hey 👋,I am <strong><a href="https://github.com/ks-keshava-rao/" target="_blank">K S Keshava Rao</a></strong>, Full stack developer! let's connect for innovative ideas !! 🎓. </i>
+</p>
 <br>
 <p align="center">
      <img src="https://profile-counter.glitch.me/{ks-keshava-rao}/count.svg"  alt="counter"/>
