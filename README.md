@@ -1,4 +1,5 @@
-
+<p><i>Hey 👋,I am <strong><a href="https://github.com/ks-keshava-rao/" target="_blank">K S Keshava Rao</a></strong>, Full stack developer:globe_with_meridians: developer! let's connect for innovative ideas !! 🎓. </i>
+</p>
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 </p>
@@ -11,8 +12,16 @@
 <p align="center">
      <img src="https://profile-counter.glitch.me/{ks-keshava-rao}/count.svg"  alt="counter"/>
 </p>
-
-Hey 👋,I am <strong><a href="https://github.com/ks-keshava-rao/" target="_blank">K S Keshava Rao</a></strong>, Full stack developer:globe_with_meridians: developer! let's connect for innovative ideas !! 🎓. 
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/k-s-keshava-rao-97a7b2174" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href=""mailto:abc@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 ### <h2 align="center">🛠️ Languages and Tools 🛠️<h2/>
 
