@@ -4,7 +4,7 @@
 </p>
 <br> -->
 <p align="center">
-  <img alt="GIF" src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif" width="300px" height="300px"/>
+  <img alt="GIF" src="https://media3.giphy.com/media/zMukICnMEZmSf8zvXd/giphy.gif?cid=ecf05e47jj4bw0qm7a35f66e6kbhlsvhh0gb3oju8rsz2do3&ep=v1_gifs_search&rid=giphy.gif&ct=g&ct=g" width="300px" height="300px"/>
 </p>
 <br>
 <br>
