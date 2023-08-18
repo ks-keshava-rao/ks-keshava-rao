@@ -48,6 +48,7 @@
   <code><img width="70px"  src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"></code>
   <code><img width="70px"  src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
 <code><img width="70px"  src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+
   <code><img width="70px"  src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
   <code><img width="70px"  src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 
